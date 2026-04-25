@@ -1,5 +1,7 @@
 # iPAS AI應用規劃師 初級 刷題平台
 
+by 世新大學資訊傳播學系 林辰禧 
+
 使用前請先參考網路開源文章，了解如何安排考前學習進度。
 
 [如何在60日內取得AI應用規劃師初級證照（源自 Emily's LAB.）](https://emily50431.github.io/-emily-lu-website-g/blog/ipas-ai-planner-beginner/)
